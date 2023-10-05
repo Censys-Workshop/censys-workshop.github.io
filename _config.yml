@@ -1,0 +1,9 @@
+# Base Config
+title: Censys Workshop
+
+# Plugin Config
+plugins:
+  - jekyll-sitemap
+
+# Other Config
+google_analytics: G-24ZCRCH8HG
