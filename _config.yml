@@ -4,6 +4,3 @@ title: Censys Workshop
 # Plugin Config
 plugins:
   - jekyll-sitemap
-
-# Other Config
-gtag: G-24ZCRCH8HG
