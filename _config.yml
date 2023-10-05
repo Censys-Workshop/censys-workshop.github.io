@@ -6,4 +6,4 @@ plugins:
   - jekyll-sitemap
 
 # Other Config
-google_analytics: G-24ZCRCH8HG
+gtag: G-24ZCRCH8HG
