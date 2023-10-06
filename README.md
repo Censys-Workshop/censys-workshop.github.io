@@ -14,4 +14,7 @@ Discover the world of mapping like never before. Map To Censys offers a fresh pe
 
 Your input is invaluable. Engage with our prototypes, share your thoughts, and be a part of the iterative process that drives us forward. Every feedback, every idea, and every suggestion paves the way for groundbreaking innovations.
 
+### Feedback
+We appreciate all feedback! Please send your thoughts, suggestions, and comments to [workshop@censys.com](mailto:workshop@censys.com).
+
 Stay tuned for more exciting projects in the pipeline, and let's co-create the tech of tomorrow!
